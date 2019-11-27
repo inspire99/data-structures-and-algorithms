@@ -1,4 +1,4 @@
-/* IMPORTANT: class must not be public. */
+package geeksforgeeks.interview.Cisco.set9;/* IMPORTANT: class must not be public. */
 
 /*
  * uncomment this if you want to read input.
