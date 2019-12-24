@@ -31,3 +31,10 @@ understand applications of concepts..
 -- multilevel parking lot.. try to observe that it is open problem.. multiple questions to be asked to the person.. regarding understanding of the problem..what features.. wide variety of questions u can ask..
 -- after that, figure out design.. discuss.. not necessary to design complete system..
 -- what are for higher priority and lesser.. 
+-- write impact of your work.. in numbers..
+-- choice of technologies.. why used reactjs.. instead of ..
+-- mongodb.. what is nosql db.. why used it.. project.
+-- good project.. complex enough to implement.. good with design and delivering them.
+-- be familiar with technologies you are using..
+-- what all features provided by technology..
+-- learning mvc framework.. 
