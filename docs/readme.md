@@ -1,1 +1,1 @@
-1. [Extensive Examination of data structures](https://github.com/inspire99/dsa/blob/master/other_file.md)
+1. [Extensive Examination of data structures](https://github.com/inspire99/dsa/blob/master/docs/Extensive_Examination_of_DS.pdf)
