@@ -1,1 +1,1 @@
-1. [Extensive Examination of data structures](https://github.com/inspire99/dsa/blob/master/docs/Extensive_Examination_of_DS.pdf)
+1. [Extensive Examination of data structures](https://github.com/inspire99/dsa/blob/master/docs/Extensive_Examination_of_DS.pdf) (Courtesy: [deitel.com](http://www.deitel.com/Paul/ResourceCenters/Programming/C/CAlgorithmsandDataStructures/tabid/507/Default.aspx) )
