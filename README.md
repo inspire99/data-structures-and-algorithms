@@ -1,7 +1,3 @@
-# ds
-My experiments with solving data structures and algorithms problems 
-
-Problems taken from following links:
-
-1. [Geeks for geeks](https://practice.geeksforgeeks.org/)
-2. 
+# dsa
+My experiments with solving data structures and algorithms problems. Problems are sourced from geeksforgeeks, leetcode, hackerrank etc.
+I am blogging about this in my [blog](https://gansai.blogspot.com/p/data-structures-and-algorithms.html)
