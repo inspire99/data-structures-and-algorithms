@@ -3,3 +3,5 @@
 src/main/project/*/*
 src/main/project/*
 src/main/datastructures/*/*
+src/main/geeksforgeeks/*.md
+src/main/geeksforgeeks/README.md
