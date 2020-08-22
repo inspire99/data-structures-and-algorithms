@@ -22,7 +22,7 @@ public class CharFrequencyLHMap {
 
     private static void printCharFrequency(String str, int n) {
 
-        LinkedHashMap<Character, Integer> lhm = new LinkedHashMap<>();
+        LinkedHashMap<Character, Integer> lhm = new LinkedHashMap();
 
         for(int i =0; i< n; i++){
 

@@ -32,7 +32,7 @@ public class BreadthFirstSearchGraph {
         // so, 4 vertex means 4 lists, that's why we are doing the below initialization.
 
         for (int i = 0; i < numVertices; i++) {
-            adjacencyList[i] = new LinkedList<>();
+            adjacencyList[i] = new LinkedList();
         }
     }
 
@@ -57,7 +57,7 @@ public class BreadthFirstSearchGraph {
 
         // we want a data structure to hold the vertices, so that we will iterate over each of these
         // vertices, to visit reachable vertices. for this, let's take a linkedlist
-        LinkedList<Integer> queueOfVertices = new LinkedList<>();
+        LinkedList<Integer> queueOfVertices = new LinkedList();
         queueOfVertices.add(vertex);
 
         while (queueOfVertices.size() != 0) {
